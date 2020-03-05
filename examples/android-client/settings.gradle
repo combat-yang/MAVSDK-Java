@@ -8,4 +8,4 @@ include ':app'
 
 // Uncomment the following line to use the mavsdk_server built
 // from sources.
-//includeBuild '../../mavsdk_server'
+includeBuild '../../mavsdk_server'
